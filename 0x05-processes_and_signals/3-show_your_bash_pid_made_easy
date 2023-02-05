@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Get all process IDs
+
+pgrep -l bash
